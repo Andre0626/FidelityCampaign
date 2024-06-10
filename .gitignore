@@ -1,0 +1,4 @@
+/interface/dist/
+/interface/node_modules/
+/interface/apps/web/node_modules/
+/interface/apps/mobile/node_modules/
